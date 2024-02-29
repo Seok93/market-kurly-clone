@@ -4,6 +4,8 @@ coverage
 dist
 package.json
 package-lock.json
+README.md
+.history
 
 # Ignore all files:
 **/*.html
@@ -11,3 +13,4 @@ package-lock.json
 **/.svn
 **/.hg
 **/node_modules
+**/.github
