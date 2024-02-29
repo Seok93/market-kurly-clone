@@ -39,3 +39,4 @@ dist-ssr
 
 # etc
 .history
+package-lock.json
