@@ -18,6 +18,7 @@ export default defineConfig({
       { find: '@stories', replacement: path.resolve(__dirname, 'src/stories') },
       { find: '@contexts', replacement: path.resolve(__dirname, 'src/contexts') },
       { find: '@tests', replacement: path.resolve(__dirname, 'src/tests') },
+      { find: '@styles', replacement: path.resolve(__dirname, 'src/styles') },
     ]
   }
 });
